@@ -12,3 +12,7 @@ finding overlapping regions and supressing those above threshold overlap.
 
 model used yolo using coco labels and weights.
 Code for model creation was based on (this link)[https://machinelearningmastery.com/how-to-perform-object-detection-with-yolov3-in-keras/]
+
+# Results
+model loads and I am able to load images in c using opencv.
+However, upon compilation of main (runnning both, was trying to do predictions onto an image), I ran into some errors.
